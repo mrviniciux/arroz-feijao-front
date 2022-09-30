@@ -15,3 +15,18 @@ function calcular() {
 
     document.querySelector('#resultado').setHTML(resultado);
 }
+
+/*
+
+X > X || X < X || X >= X || X <= X || X === X || X == X || X <> X
+
+>  MAIOR
+<  MENOR
+>= MAIOR OU IGUAL
+<= MENOR OU IGUAL
+
+=== IGUAL A (RESTRITO)
+==  IGUAL A (MENOS RESTRITO)
+<> DIFERENTE
+
+*/
